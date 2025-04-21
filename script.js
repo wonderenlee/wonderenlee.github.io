@@ -1,3 +1,2 @@
-// let d = new Date();
-// document.body.innerHTML = "<h1>Today's date is " + d + '</h1>';
-alert('Hello Starshine!');
+//DOM elements
+const rotateLeftButton = document.getElementById()
